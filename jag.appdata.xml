@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<application>
-  <id type="desktop">com.gitlab.coringao.JAG.desktop</id>
+<component type="desktop-application">
+  <id>com.gitlab.coringao.JAG.desktop</id>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-3.0-or-later</project_license>
   <name>JAG</name>
   <summary>Arcade and Puzzle 2D Game in which you have to break all the target pieces</summary>
+  <launchable type="desktop-id">com.gitlab.coringao.JAG.desktop</launchable>
   <description>
     <p>The aim of JAG is to break all of the target pieces on each level, and to do this before the time runs out. Keep doing this until you have beaten the last level and won the game.</p>
   </description>
   <screenshots>
-    <screenshot>https://screenshots.debian.net/screenshot/jag/15936</screenshot>
-    <screenshot>https://screenshots.debian.net/screenshot/jag/20023</screenshot>
-    <screenshot>https://screenshots.debian.net/screenshot/jag/15937</screenshot>
+    <screenshot type="default">
+      <image>https://screenshots.debian.net/screenshot/jag/15936</image>
+    </screenshot>
+    <screenshot>
+      <image>https://screenshots.debian.net/screenshot/jag/20023</image>
+    </screenshot>
+    <screenshot>
+      <image>https://screenshots.debian.net/screenshot/jag/15937</image>
+    </screenshot>
   </screenshots>
   <developer_name>XlabSoft &amp; Industrial Infosystems</developer_name>
   <url type="homepage">https://gitlab.com/coringao/jag/-/wikis/home</url>
@@ -25,4 +32,4 @@
     <release version="0.3.3" date="2017-12-08" />
   </releases>
   <content_rating type="oars-1.1" />
-</application>
+</component>
