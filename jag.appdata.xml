@@ -9,9 +9,9 @@
     <p>The aim of JAG is to break all of the target pieces on each level, and to do this before the time runs out. Keep doing this until you have beaten the last level and won the game.</p>
   </description>
   <screenshots>
-    <screenshot>https://screenshots.debian.net/shrine/screenshot/15936/simage/large-7b7357386c5cca2acda9c6699260572a.png</screenshot>
-    <screenshot>https://screenshots.debian.net/shrine/screenshot/20023/simage/large-a83bfe93796133075ac5dccd784a8439.png</screenshot>
-    <screenshot>https://screenshots.debian.net/shrine/screenshot/15937/simage/large-d3983b016dfcd1099adade3a1952b2f2.png</screenshot>
+    <screenshot>https://screenshots.debian.net/screenshot/jag/15936</screenshot>
+    <screenshot>https://screenshots.debian.net/screenshot/jag/20023</screenshot>
+    <screenshot>https://screenshots.debian.net/screenshot/jag/15937</screenshot>
   </screenshots>
   <developer_name>XlabSoft &amp; Industrial Infosystems</developer_name>
   <url type="homepage">https://gitlab.com/coringao/jag/-/wikis/home</url>
