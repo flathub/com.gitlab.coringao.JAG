@@ -8,6 +8,7 @@ finish-args:
   - --socket=x11
   - --socket=pulseaudio
   - --device=dri
+  - --persist=.jag
 
 modules:
   - name: JAG
