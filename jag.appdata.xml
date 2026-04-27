@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component type="desktop-application">
-  <id>com.gitlab.coringao.JAG.desktop</id>
+  <id>com.gitlab.coringao.JAG</id>
+  <provides>
+    <id>com.gitlab.coringao.JAG.desktop</id>
+  </provides>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-3.0-or-later</project_license>
   <name>JAG</name>
   <summary>Arcade and Puzzle 2D Game in which you have to break all the target pieces</summary>
   <launchable type="desktop-id">com.gitlab.coringao.JAG.desktop</launchable>
   <description>
-    <p>The aim of JAG is to break all of the target pieces on each level, and to do this before the time runs out. Keep doing this until you have beaten the last level and won the game.</p>
+    <p>The aim of JAG is to break all of the target pieces on each level, and to do this before the time runs out.
+      Keep doing this until you have beaten the last level and won the game.</p>
   </description>
   <screenshots>
     <screenshot type="default">
@@ -20,9 +24,12 @@
       <image>https://screenshots.debian.net/screenshot/jag/15937</image>
     </screenshot>
   </screenshots>
-  <developer_name>XlabSoft &amp; Industrial Infosystems</developer_name>
+  <developer id="io.gitlab.coringao">
+    <name>XlabSoft &amp; Industrial Infosystems</name>
+  </developer>
   <url type="homepage">https://gitlab.com/coringao/jag/-/wikis/home</url>
   <url type="bugtracker">https://gitlab.com/coringao/jag/-/issues</url>
+  <url type="vcs-browser">https://gitlab.com/coringao/jag</url>
   <releases>
     <release version="0.3.8" date="2020-08-08" />
     <release version="0.3.7" date="2020-05-12" />
